@@ -59,9 +59,11 @@ Building enterprise ERP systems, dynamic template engines, and AI-powered develo
 ### 📊 GitHub stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EngineerMansha&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EngineerMansha&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EngineerMansha&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=EngineerMansha&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
+
+<!-- If the stats card above still shows broken, GitHub's shared demo server may be rate-limited. Wait a few minutes and refresh, or deploy your own free copy of github-readme-stats on Vercel and swap the URL. -->
 
 ---
 
